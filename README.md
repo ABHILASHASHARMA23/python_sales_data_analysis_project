@@ -32,4 +32,4 @@ To answer these questions, used many different pandas & matplotlib methods. They
 4) Using the .apply() method.
 5) Using groupby to perform aggregate analysis.
 6) Plotting bar charts and lines graphs to visualize our results.
-7) Labeling our graphs
+7) Labeling our graphs.
