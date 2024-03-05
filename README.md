@@ -23,7 +23,7 @@ Once i have cleaned up our data a bit, then move the data exploration section. I
 
 
 
-To answer these questions, used many different pandas & matplotlib methods. They include:
+To answer these questions, used many different pandas & matplotlib methods. They include:-
 
 
 1) Concatenating multiple csvs together to create a new DataFrame (pd.concat).
